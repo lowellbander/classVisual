@@ -1,4 +1,5 @@
 classVisual
 ===========
 
-powerful visualization tool for class schedules
+* drop rates (over the years, break down by prof)
+* prereqs
